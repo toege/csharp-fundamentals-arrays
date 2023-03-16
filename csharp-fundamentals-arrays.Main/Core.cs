@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace csharp_fundamentals_arrays.Main
 {
-    public class Exercise
+    public class Core
     {
         // The block of code below is a method definition. So far, you've been using methods created by other people
         // such as .length() and .charAt(n)
